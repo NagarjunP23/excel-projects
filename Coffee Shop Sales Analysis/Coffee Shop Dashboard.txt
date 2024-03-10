@@ -1,0 +1,16 @@
+Coffee Shop Dashboard - Build an interactive dashboard to explore and analyze coffee shop sales
+
+This dataset is from Maven Analytics Guided projects. You can find the data and the objectives of this project in the below link.
+https://app.mavenanalytics.io/guided-projects/6
+
+
+
+
+
+
+
+
+
+
+
+
